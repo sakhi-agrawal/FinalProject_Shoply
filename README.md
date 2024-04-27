@@ -1,7 +1,12 @@
 # Final project of Honors Full Stack -1. 
-Shopping app made from MERN Stack.
+
 # 
 #
+ Features
+User and Admin Access
+User-friendly Interface
+Order Management
+Product Management
  PS: Admin Credentials  
 #
 Email : admin@gmail.com
